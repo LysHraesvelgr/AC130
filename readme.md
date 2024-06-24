@@ -28,9 +28,9 @@
 1. [<img src="https://cdn.7tv.app/emote/62703efc6fc5e131afe39a6c/4x.webp" title="you know you want to click it">](https://discord.gg/5tBDk2TxXD)
 
 <iframe
-    src="https://player.twitch.tv/?elysiaorion&parent=lyshraesvelgr.github.io"
+    src="https://player.twitch.tv/?channel=elysiaorion&parent=lyshraesvelgr.github.io&autoplay=true"
     height="480"
-    width="720"
+    width="854"
     allowfullscreen>
 </iframe>
 test push

@@ -30,7 +30,7 @@
 <iframe
     src="https://player.twitch.tv/?channel=elysiaorion&parent=lyshraesvelgr.github.io&autoplay=true"
     height="480"
-    width="854"
+    width="100%"
     allowfullscreen>
 </iframe>
 

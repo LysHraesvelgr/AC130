@@ -27,6 +27,8 @@
 
 1. [<img src="https://cdn.7tv.app/emote/62703efc6fc5e131afe39a6c/4x.webp" title="you know you want to click it">](https://discord.gg/5tBDk2TxXD)
 
+---
+
 <iframe
     src="https://player.twitch.tv/?channel=elysiaorion&parent=lyshraesvelgr.github.io&autoplay=true"
     height="480"

@@ -18,7 +18,9 @@
         color:#355;
     }
 </style>
+
 ---
+
 ### Choose Your Fighter
 
 1. [<img src="https://cdn.7tv.app/emote/614aeb065765a48b24d954dd/4x.webp" title="you know you want to click it">](https://discord.gg/5tBDk2TxXD)

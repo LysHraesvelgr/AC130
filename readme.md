@@ -28,13 +28,13 @@
 1. [<img src="https://cdn.7tv.app/emote/62703efc6fc5e131afe39a6c/4x.webp" title="you know you want to click it">](https://discord.gg/5tBDk2TxXD)
 
 <iframe
-    src="https://player.twitch.tv/?elysiaorion&parent=twitch.tv"
+    src="https://player.twitch.tv/?elysiaorion&parent=lyshraesvelgr.github.io"
     height="480"
     width="720"
     allowfullscreen>
 </iframe>
 test push
- 
+
 ---
 
  [kaleiL]:https://cdn.7tv.app/emote/614aeb065765a48b24d954dd/4x.webp
